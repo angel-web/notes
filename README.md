@@ -4,7 +4,7 @@
   1. cancelAll  --- 用于取消正在请求的ajax
   2. getRequestingList  ---- 用于获取正在请求的ajax列表
   
-## getRequestingList 获取的列表在下一秒都可能会改变，因为在请求完成或者失败会删除请求项
+4. getRequestingList 获取的列表在下一秒都可能会改变，因为在请求完成或者失败会删除请求项
 
 # ReactRouterLibs.js react-router 路由配置处理函数
 
